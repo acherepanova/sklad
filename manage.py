@@ -5,7 +5,6 @@ import sys
 
 
 def main():
-    print('123')
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sklad.settings')
     try:
